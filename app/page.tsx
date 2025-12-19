@@ -6,6 +6,7 @@ export default function Home() {
     { href: "/sidebar", label: "Sidebar" },
     { href: "/table", label: "Table" },
     { href: "/tabs", label: "Tabs" },
+    { href: "/separator", label: "Separator" },
   ]
 
   return (
